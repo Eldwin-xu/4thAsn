@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/IMDT/BASE/Scenes/Main.unity
+    guid: edce6a3cd6b78e7459bd2864b9295f8c
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/collision_hw.unity
+    guid: a502a7b0cf03b314c88ea74f1c26da70
+  - enabled: 0
+    path: Assets/cloth_hw.unity
+    guid: 8586db83cc46cea40a5c67fcbe93c7a6
+  m_configObjects: {}
