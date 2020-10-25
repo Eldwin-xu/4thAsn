@@ -1,0 +1,2 @@
+在homework summer衣服上 完成和demo类似的布料setting
+完成多个物理破坏形式， 也尝试了fractured and destruction， 加了碎开后的material
