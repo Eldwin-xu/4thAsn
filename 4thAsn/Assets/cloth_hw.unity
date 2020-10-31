@@ -325,7 +325,11 @@ MonoBehaviour:
   stiffnessForce: 0.01
   dragForce: 0.4
   springForce: {x: 0, y: -0.007, z: 0}
-  colliders: []
+  colliders:
+  - {fileID: 54403246}
+  - {fileID: 54403187}
+  - {fileID: 54403186}
+  - {fileID: 54403242}
   debug: 1
   threshold: 0.01
 --- !u!114 &54403181
@@ -823,7 +827,11 @@ MonoBehaviour:
   stiffnessForce: 0.01
   dragForce: 0.4
   springForce: {x: 0, y: -0.007, z: 0}
-  colliders: []
+  colliders:
+  - {fileID: 54403246}
+  - {fileID: 54403245}
+  - {fileID: 54403244}
+  - {fileID: 54403242}
   debug: 1
   threshold: 0.01
 --- !u!114 &54403228
